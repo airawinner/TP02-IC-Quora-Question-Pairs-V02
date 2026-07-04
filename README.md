@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 3. Abra o notebook [`quora_question_pairs_siamese_bilstm.ipynb`](quora_question_pairs_siamese_bilstm.ipynb).
 4. Execute as células na ordem apresentada.
-5. Ao final, o arquivo [`submission.csv`](submission.csv) será gerado na raiz do projeto.
+5. Ao final, os arquivos [`submission_A.csv`](submission_A.csv) e [`submission_B.csv`](submission_B.csv) serão gerados na raiz do projeto.
 
 ## Configuração do notebook
 
